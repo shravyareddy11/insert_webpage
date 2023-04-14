@@ -23,5 +23,5 @@ urlpatterns = [
     path('Webpage/',Webpage,name='Webpage'),
     path('AccessRecord/',AccessRecord,name='AccessRecord'),
     path('insert_topic/',insert_topic,name='insert_topic'),
-
+    path('insert_webpage/',insert_webpage,name='insert_webpage'),
 ]
